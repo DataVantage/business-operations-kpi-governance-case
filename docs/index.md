@@ -6,21 +6,21 @@ This project demonstrates how raw online retail transaction data was cleaned, mo
 
 ## Final Case Dossier
 
-[Download the full PDF dossier](../Akdemir_Skill_Dossier_Business_Operations_Analytics.pdf)
+[Download the full PDF dossier](./case-dossier.pdf)
 
 ## Dashboard Preview
 
 ### Executive Overview
 
-![Executive Overview](../assets/dashboard-1-executive-overview.png)
+![Executive Overview](./assets/dashboard-1.png)
 
 ### Customer & Revenue Deep Dive
 
-![Customer Deep Dive](../assets/dashboard-2-customer-deep-dive.png)
+![Customer Deep Dive](./assets/dashboard-2.png)
 
 ### Product & Cancellation Risk
 
-![Product Cancellation Risk](../assets/dashboard-3-product-cancellation-risk.png)
+![Product Cancellation Risk](./assets/dashboard-3.png)
 
 ## Key Skills
 
@@ -48,7 +48,7 @@ This project demonstrates how raw online retail transaction data was cleaned, mo
 
 Selected dashboard metrics were reproduced with SQL in SQLite to validate the Power BI results directly on transaction-level data.
 
-[View SQL validation notebook](../Online_Retail_SQL_Analysis_clean.ipynb)
+[View SQL validation notebook](./sql-validation-notebook.ipynb)
 
 ## Application Purpose
 
